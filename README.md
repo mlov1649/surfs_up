@@ -1,29 +1,28 @@
-# surfs_up
+# surfs_up_analysis
 DAVA Week 9
 
-Overview:
-This analysis reports temperatures within the months of June and December as a tool to advise wether opening the surfs shop is a viable investment. 
+**Overview:**
+This analysis reports temperatures within the months of June and December as a tool to advise wether opening a surf shop is a viable investment. 
 
 
-Results:
+**Results:**
 
 June
--The Average Temperature in June is ____
+-The Average Temperature in June is 74.94 degrees Farenheit. 
+-The Maximum June Temperature is 85 degrees Farenheit. 
+-The Minimum Temperature is 64 degrees Farenheit. 
 
 
 Dec Comparison
-- The standard deviation in December compared to June is _____. 
-- The 
+-The Average Temperature in Dec is only 3.9 degrees Fareneheit lower than in June. 
+-The Maximum Decemeber Temperature is 83. 
+-The Minimum Temperature is eight degrees lower than in June. 
+-Notably, Decemebr's 25-percentile fals at 69 whereas June's falls at 71. There are signifcantly more cold days in Decemebr. 
 
 
 
-Summary:
-Considering operational costs It may be better to close shop in the month of December as sales are likely to decrease. However, 
+**Summary:**
 
-Additionally, a query done on Precipitation in shows that in June, 
-And in December, 
+Considering the close values between June and December Temperatures, opening the surf shop in Hawaii appears to be a solid year-round business. There will be decreased business given Decemeber's higher amount of cold temperature recorders however, those cold days are not frequent enough in December to warrant closign shop entirely.  
 
-From Year to Year.... 
-
-The average Max Temperature in Dec
-The average Min Temperature in June
+Additionally, a query can be done on the Precipitation in both June and December.
